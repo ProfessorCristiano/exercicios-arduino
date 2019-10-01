@@ -5,8 +5,8 @@ OBS: Cláusulas e licenças de uso disponíveis diretamente no TinkerCad.
 
 
 
- 	 Exercicio 01
-   https://www.tinkercad.com/things/g6XYhAT8Vlq
+   Exercicio 01
+   	 https://www.tinkercad.com/things/g6XYhAT8Vlq
 	
    Exercicio 02
 	 https://www.tinkercad.com/things/k8mknIqtZdJ
@@ -18,7 +18,7 @@ OBS: Cláusulas e licenças de uso disponíveis diretamente no TinkerCad.
 	 https://www.tinkercad.com/things/hRkcdJAv6NR
 	
    Exercicio 05
-   https://www.tinkercad.com/things/gwhBYWY3bUW
+         https://www.tinkercad.com/things/gwhBYWY3bUW
 
 	
 
