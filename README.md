@@ -4,9 +4,28 @@ OBS: Cláusulas e licenças de uso disponíveis diretamente no TinkerCad.
 
 
 
-1 - Exercício Simples com vetor
+
+ 	 Exercicio 01
+   https://www.tinkercad.com/things/g6XYhAT8Vlq
+	
+   Exercicio 02
+	 https://www.tinkercad.com/things/k8mknIqtZdJ
+	
+   Exercicio 03
+	 https://www.tinkercad.com/things/7AW4OlXd498
+	 
+   Exercicio 04
+	 https://www.tinkercad.com/things/hRkcdJAv6NR
+	
+   Exercicio 05
+   https://www.tinkercad.com/things/gwhBYWY3bUW
+
+	
+
+
+Exercício Simples com vetor
 https://www.tinkercad.com/things/bxzxAHyMOhR
 
-2 - Exercício com matriz
+Exercício com matriz
 https://www.tinkercad.com/things/dAyg6HsqAdG
 
