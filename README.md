@@ -34,4 +34,3 @@ https://www.tinkercad.com/things/dAyg6HsqAdG
 
 
 
-<img=icecream-kid.gif><\img>
