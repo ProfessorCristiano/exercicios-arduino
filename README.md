@@ -32,5 +32,5 @@ https://www.tinkercad.com/things/bxzxAHyMOhR
 Exercício com matriz
 https://www.tinkercad.com/things/dAyg6HsqAdG
 
+<div class="tenor-gif-embed" data-postid="5236832" data-share-method="host" data-aspect-ratio="1.785" data-width="100%"><a href="https://tenor.com/view/icecream-kid-face-nose-gif-5236832">Icecream Kid GIF</a>from <a href="https://tenor.com/search/icecream-gifs">Icecream GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/3o6gDREoETcSrm9Wog" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3o6gDREoETcSrm9Wog">via GIPHY</a></p>
