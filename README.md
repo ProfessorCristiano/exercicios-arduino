@@ -32,5 +32,6 @@ https://www.tinkercad.com/things/bxzxAHyMOhR
 Exercício com matriz
 https://www.tinkercad.com/things/dAyg6HsqAdG
 
-<img="https://tenor.com/view/icecream-kid-face-nose-gif-5236832"></img>
 
+
+<img=icecream-kid.gif><\img>
